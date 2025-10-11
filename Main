@@ -10,5 +10,13 @@ return {
   ["6410c2604c19ecb9dba0700da43db359783b1484648248614d4694b4e2e36ca4"] = {
     key = "TesterKey-l1x2o44510",
     tester = "randy"
+  },
+    ["6410c2604c19ecb9dba0700da43db359783b1484648248614d4694b4e2e36ca4"] = {
+    key = "TesterKey-z015b192z135",
+    tester = "tribe"
+  },
+  ["6410c2604c19ecb9dba0700da43db359783b1484648248614d4694b4e2e36ca4"] = {
+    key = "TesterKey-z12l243bu7",
+    tester = "zamer"
   }
 }
